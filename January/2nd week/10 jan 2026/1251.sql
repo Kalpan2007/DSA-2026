@@ -1,7 +1,3 @@
-# Write your MySQL query statement below
-
-
-
 WITH SalesRevenue AS (
     SELECT
         u.product_id,
@@ -12,10 +8,18 @@ WITH SalesRevenue AS (
     JOIN Prices p
       ON u.product_id = p.product_id
      AND u.purchase_date BETWEEN p.start_date AND p.end_date
+),
+AllProducts AS (
+    SELECT DISTINCT product_id
+    FROM Prices
 )
 SELECT
-    product_id,
-    ROUND(IFNULL(SUM(revenue) / SUM(units), 0), 2) AS average_price
-FROM SalesRevenue
-GROUP BY product_id;
-
+    ap.product_id,
+    ROUND(
+        IFNULL(SUM(sr.revenue) / SUM(sr.units), 0),
+        2
+    ) AS average_price
+FROM AllProducts ap
+LEFT JOIN SalesRevenue sr
+    ON ap.product_id = sr.product_id
+GROUP BY ap.product_id;
