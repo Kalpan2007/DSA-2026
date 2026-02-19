@@ -8,10 +8,14 @@
 
 <br />
 
+![Start Date](https://img.shields.io/badge/Start_Date-3_January_2026-0969DA?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current_Streak-Active_🔥-E34C26?style=for-the-badge)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3kz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/3kz/)
 [![Status](https://img.shields.io/badge/Status-Active_Daily-success?style=for-the-badge)](https://github.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+<img src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 
 <br />
 
@@ -36,30 +40,6 @@ What you will find here:
 
 ---
 
-## 📅 Consistency Tracker
-
-<div align="center">
-
-![Start Date](https://img.shields.io/badge/Start_Date-3_January_2026-0969DA?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current_Streak-Active_🔥-E34C26?style=for-the-badge)
-![Total Problems](https://img.shields.io/badge/Total_Problems-324-2EA043?style=for-the-badge)
-![Languages](https://img.shields.io/badge/Languages-C++_|_SQL-8957E5?style=for-the-badge)
-
-</div>
-
-> **Total Problems** count is **auto-updated** on every push via GitHub Actions.
-
-### 💪 The Commitment
-
-| Principle | Status |
-|-----------|--------|
-| Solve problems **every single day** | ✅ Active |
-| Push code to GitHub before midnight | ✅ Active |
-| Focus on understanding, not just solving | ✅ Active |
-| Track progress and celebrate milestones | ✅ Active |
-
----
-
 ## 🏅 Achievement Badges (2026)
 
 <div align="center">
@@ -75,28 +55,12 @@ What you will find here:
 -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_50_Days-Streak-gold?style=for-the-badge" height="35" />
+  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524806/50_days_2026_leetcode_dxhj20.png" height="200" />
   &nbsp;
-  <img src="https://img.shields.io/badge/📈_Consistency-No_Zero_Days-success?style=for-the-badge" height="35" />
+  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524927/Jan_2026_Badge_leetcode_wvwm2k.png" height="200" />
   &nbsp;
-  <img src="https://img.shields.io/badge/🏆_Contest-Participant-blue?style=for-the-badge" height="35" />
 </p>
 
-<sub>Replace with your real earned badges from LeetCode, contests, or milestones — keep it honest.</sub>
-
-</div>
-
----
-
-## 📈 Live LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-3kz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/3kz/)
-
-<br />
-
-<img src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
 
 </div>
 
@@ -150,70 +114,11 @@ What you will find here:
 
 ---
 
-## 📊 Progress Dashboard
-
-<!-- UPDATE: Fill in real numbers as you track them -->
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 📈 Overall Statistics
-
-| Metric | Value |
-|--------|-------|
-| 📅 **Days Active** | <!-- UPDATE --> |
-| 💡 **Total Problems** | Auto-updated |
-| 🔥 **Current Streak** | Active |
-| 🗓️ **Start Date** | 3 Jan 2026 |
-
-</td>
-<td align="center" width="50%">
-
-### ⚡ Difficulty Breakdown
-
-| Difficulty | Count |
-|-----------|-------|
-| 🟢 **Easy** | <!-- UPDATE --> |
-| 🟡 **Medium** | <!-- UPDATE --> |
-| 🔴 **Hard** | <!-- UPDATE --> |
-
-</td>
-</tr>
-</table>
-
-### 🗂️ Topic-Wise Distribution
-
-<!-- UPDATE: Fill in as you categorize problems -->
-
-| Topic | Problems |
-|-------|----------|
-| 📊 Arrays & Strings | <!-- UPDATE --> |
-| 🔗 Linked Lists | <!-- UPDATE --> |
-| 🌲 Trees & Graphs | <!-- UPDATE --> |
-| 🧮 Dynamic Programming | <!-- UPDATE --> |
-| 🔍 Binary Search | <!-- UPDATE --> |
-| ⚡ Greedy Algorithms | <!-- UPDATE --> |
-| 🔄 Backtracking | <!-- UPDATE --> |
-| 🗃️ Hash Tables | <!-- UPDATE --> |
-| 📝 SQL Queries | <!-- UPDATE --> |
-
-### 📅 Monthly Progress
-
-<!-- UPDATE: Fill in at end of each month -->
-
-| Month | Problems Solved | Active Days |
-|-------|----------------|-------------|
-| 🗓️ **January 2026** | <!-- UPDATE --> | <!-- UPDATE --> |
-| 🗓️ **February 2026** | <!-- UPDATE --> | <!-- UPDATE --> |
-
----
 
 ## 🎯 2026 Goals
 
-- [ ] Solve **500+ problems** by end of 2026
+- [ ] Solve **700+ problems With Understading** by end of 2026
 - [ ] Maintain a **365-day streak** — no zero days
-- [ ] Solve **100+ Hard** problems
 - [ ] Master all **core topics** (Trees, DP, Graphs, etc.)
 - [ ] Participate in **50+ contests**
 - [ ] Reach **1800+ LeetCode rating**
@@ -232,23 +137,6 @@ Consistency beats intensity. Showing up every day—even when motivation is low�
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<!-- Replace YOUR_USERNAME/REPO_NAME with your actual GitHub username and repo name -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3kz/REPO_NAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3kz/REPO_NAME/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/3kz/REPO_NAME/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<!-- ⬆️ UPDATE: Replace REPO_NAME with the actual name of this repository -->
-
-</div>
-
----
-
 ## ⭐ Support
 
 If this repository resonates with you or demonstrates what consistent effort looks like:
@@ -257,7 +145,6 @@ If this repository resonates with you or demonstrates what consistent effort loo
 
 **⭐ Star this repository** — it takes one second and means a lot
 
-[![Star](https://img.shields.io/github/stars/3kz/Leetcode?style=social)](https://github.com/3kz/Leetcode)
 
 </div>
 
@@ -269,7 +156,7 @@ If this repository resonates with you or demonstrates what consistent effort loo
 
 <br /><br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-3kz-181717?style=for-the-badge&logo=github)](https://github.com/kalpan2007/dsa-2026)
+[![GitHub](https://img.shields.io/badge/GitHub-kalpan2007-181717?style=for-the-badge&logo=github)](https://github.com/kalpan2007/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3kz-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/3kz/)
 
 <sub>Built with discipline and consistency · © 2026</sub>
