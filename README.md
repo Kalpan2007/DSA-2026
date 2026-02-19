@@ -44,18 +44,8 @@ What you will find here:
 
 <div align="center">
 
-<!-- 
-  📌 HOW TO ADD BADGES
-  Replace the placeholder image links below with your actual earned badge images.
-  You can use LeetCode profile screenshots, contest certificates, 
-  or any achievement images uploaded to your repo or an image host.
-  
-  Example:
-  <img src="./badges/50-day-streak.png" width="120" />
--->
-
 <p align="center">
-  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524806/50_days_2026_leetcode_dxhj20.png" height="200" />
+  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771525556/50_days_2026_leetcode_y9sk9i.png" height="200" />
   &nbsp;
   <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524927/Jan_2026_Badge_leetcode_wvwm2k.png" height="200" />
   &nbsp;
