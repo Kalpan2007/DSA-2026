@@ -15,7 +15,12 @@
 [![Status](https://img.shields.io/badge/Status-Active_Daily-success?style=for-the-badge)](https://github.com)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-<img src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+<img 
+  src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest"
+  alt="LeetCode Stats"
+  width="100%"
+  style="max-width: 900px;"
+/>
 
 <br />
 
