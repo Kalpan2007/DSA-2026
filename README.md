@@ -54,6 +54,8 @@ What you will find here:
   &nbsp;
   <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524927/Jan_2026_Badge_leetcode_wvwm2k.png" height="200" />
   &nbsp;
+  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772256474/dcc-2026-2_qrzv3r.png" height="200" />
+  &nbsp;
 </p>
 
 
