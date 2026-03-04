@@ -49,49 +49,58 @@ What you will find here:
 
 <div align="center">
 
-<p align="center">
-  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771525556/50_days_2026_leetcode_y9sk9i.png" height="200" />
-  &nbsp;
-  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524927/Jan_2026_Badge_leetcode_wvwm2k.png" height="200" />
-  &nbsp;
-  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772256474/dcc-2026-2_qrzv3r.png" height="200" />
-  &nbsp;
-  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772559214/LeetCode_75_w677o6.png" height="200" />
-  &nbsp;
-</p>
-
+<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771525556/50_days_2026_leetcode_y9sk9i.png" height="180"/>
+&nbsp;&nbsp;
+<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524927/Jan_2026_Badge_leetcode_wvwm2k.png" height="180"/>
+&nbsp;&nbsp;
+<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772256474/dcc-2026-2_qrzv3r.png" height="180"/>
+&nbsp;&nbsp;
+<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772559214/LeetCode_75_w677o6.png" height="180"/>
 
 </div>
 
 ---
 
+## 🎯 2026 Goals
+
+- [ ] Solve **700+ problems with deep understanding**
+- [ ] Maintain a **365-day DSA streak** — zero missed days
+- [ ] Participate in **50+ LeetCode contests**
+- [x] Reach **1800+ LeetCode rating**
+- [ ] Next Break the **2000 rating milestone**
+- [x] Complete **LeetCode 75**
+- [ ] Complete **Top Interview 150**
+- [ ] Complete **Top 100 Liked**
+---
 ## 📂 Folder Structure
 
 ```
 .
 ├── January/
-│   ├── 3 jan 2026/
+│   ├── 3 Jan 2026/
 │   │   ├── 263.cpp
 │   │   └── 1411.cpp
-│   ├── 4 jan 2026/
-│   │   └── ...
-│   ├── 10 jan 2026/
+│   ├── 10 Jan 2026/
 │   │   ├── 1251.sql
 │   │   ├── 2095.cpp
-│   │   ├── 443.cpp
-│   │   └── 712.cpp
+│   │   └── 443.cpp
 │   └── ...
 │
-├── Fabruary/
-│   ├── 1 Fab 2026/
+├── February/
+│   ├── 1 Feb 2026/
 │   │   ├── 17.cpp
 │   │   ├── 274.cpp
-│   │   ├── 933.cpp
 │   │   └── 596.sql
-│   ├── 2 fab 2026/
-│   │   ├── 121.cpp
-│   │   ├── 169.cpp
-│   │   └── ...
+│   └── ...
+│
+├── March/
+│   ├── 1 Mar 2026/
+│   │   ├── Weekly_contest/
+│   │   │   ├── 3856.cpp
+│   │   │   ├── 3857.cpp
+│   │   │   └── 3859.cpp
+│   │   ├── 1318.cpp
+│   │   └── 1689.cpp
 │   └── ...
 │
 └── README.md
@@ -100,10 +109,12 @@ What you will find here:
 ### 📝 Naming Convention
 
 | Pattern | Example | Meaning |
-|---------|---------|---------|
-| `{number}.cpp` | `263.cpp` | LeetCode #263 in C++ |
-| `{number}.sql` | `1251.sql` | LeetCode #1251 in SQL |
-| `{number}_{tag}.cpp` | `199_dfs.cpp` | Problem #199, DFS approach |
+|-------|-------|-------|
+| `{number}.cpp` | `263.cpp` | LeetCode problem #263 in C++ |
+| `{number}.sql` | `1251.sql` | LeetCode problem #1251 in SQL |
+| `{number}_{tag}.cpp` | `199_dfs.cpp` | Specific approach used |
+| `Weekly_contest/` | Contest problems | Weekly contest solutions |
+| `Biweekly_contest/` | Contest problems | Biweekly contest solutions |
 
 ### 🧭 How to Navigate
 
@@ -111,19 +122,6 @@ What you will find here:
 2. **By Problem** — Press `/` on GitHub, search by problem number
 3. **By Language** — Filter by `.cpp` or `.sql` extension
 
----
-
-
-## 🎯 2026 Goals
-
-- [ ] Solve **700+ problems With Understading** by end of 2026
-- [ ] Maintain a **365-day streak** — no zero days
-- [ ] Master all **core topics** (Trees, DP, Graphs, etc.)
-- [ ] Participate in **50+ contests**
-- [ ] Reach **1800+ LeetCode rating**
-- [ ] Study **20+ algorithmic patterns** in depth
-- [ ] Document key learnings for future reference
-- [ ] Contribute to open-source algorithm projects
 
 ---
 
