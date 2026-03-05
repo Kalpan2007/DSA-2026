@@ -69,7 +69,8 @@ What you will find here:
 - [ ] Maintain a **365-day DSA streak** — zero missed days
 - [ ] Participate in **50+ LeetCode contests**
 - [x] Reach **1800+ LeetCode rating**
-- [ ] Achieve **Knight Badge** 
+- [x] Achieve **Knight Badge** 
+- [ ] Reach **2000 LeetCode rating**
 - [x] Complete **LeetCode 75**
 - [ ] Complete **Top Interview 150**
 - [ ] Complete **Top 100 Liked**
