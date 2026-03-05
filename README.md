@@ -49,13 +49,15 @@ What you will find here:
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771525556/50_days_2026_leetcode_y9sk9i.png" height="180"/>
+<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771525556/50_days_2026_leetcode_y9sk9i.png" height="150"/>
 &nbsp;&nbsp;
-<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524927/Jan_2026_Badge_leetcode_wvwm2k.png" height="180"/>
+<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524927/Jan_2026_Badge_leetcode_wvwm2k.png" height="150"/>
 &nbsp;&nbsp;
-<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772256474/dcc-2026-2_qrzv3r.png" height="180"/>
+<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772256474/dcc-2026-2_qrzv3r.png" height="150"/>
 &nbsp;&nbsp;
-<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772559214/LeetCode_75_w677o6.png" height="180"/>
+<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772559214/LeetCode_75_w677o6.png" height="150"/>
+&nbsp;&nbsp;
+<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772684017/knight_yuhjay.png" height="150"/>
 
 </div>
 
