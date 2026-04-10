@@ -8,12 +8,17 @@
 
 <br />
 
-![Start Date](https://img.shields.io/badge/Start_Date-3_January_2026-0969DA?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current_Streak-Active_🔥-E34C26?style=for-the-badge)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-3kz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/3kz/)
-[![Status](https://img.shields.io/badge/Status-Active_Daily-success?style=for-the-badge)](https://github.com)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+<p>
+  <img src="https://img.shields.io/badge/Start_Date-3_January_2026-0969DA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current_Streak-Active_🔥-E34C26?style=for-the-badge" />
+  <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/3kz/"><img src="https://img.shields.io/badge/LeetCode-3kz-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/Status-Active_Daily-success?style=for-the-badge" /></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+</p>
+
+
 
 <img 
   src="https://leetcard.jacoblin.cool/3kz?theme=dark&font=Fira%20Code&ext=contest"
@@ -47,18 +52,17 @@ What you will find here:
 
 ## 🏅 Achievement Badges (2026)
 
-<div align="center">
 
-<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771525556/50_days_2026_leetcode_y9sk9i.png" height="150"/>
-&nbsp;&nbsp;
-<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524927/Jan_2026_Badge_leetcode_wvwm2k.png" height="150"/>
-&nbsp;&nbsp;
-<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772256474/dcc-2026-2_qrzv3r.png" height="150"/>
-&nbsp;&nbsp;
-<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772559214/LeetCode_75_w677o6.png" height="150"/>
-&nbsp;&nbsp;
-<img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772684017/knight_yuhjay.png" height="150"/>
-
+<div align="center" style="display: flex; flex-wrap: nowrap; gap: 20px;">
+  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771525556/50_days_2026_leetcode_y9sk9i.png" height="150" style="margin-right: 16px;"/>
+  <img src="https://res.cloudinary.com/dxdrzit6x/image/upload/v1775801521/100_bnmbnk.png" height="150" alt="100 Days Badge" style="margin-right: 16px;"/>
+  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1771524927/Jan_2026_Badge_leetcode_wvwm2k.png" height="150" style="margin-right: 16px;"/>
+  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772256474/dcc-2026-2_qrzv3r.png" height="150" style="margin-right: 16px;"/>
+  <img src="https://res.cloudinary.com/dxdrzit6x/image/upload/v1775801922/3_njahza.png" height="150" alt="New Badge"/>
+  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772559214/LeetCode_75_w677o6.png" height="150" style="margin-right: 16px;"/>
+  <img src="https://res.cloudinary.com/dk6o1t39g/image/upload/v1772684017/knight_yuhjay.png" height="150" style="margin-right: 16px;"/>
+  
+  
 </div>
 
 ---
