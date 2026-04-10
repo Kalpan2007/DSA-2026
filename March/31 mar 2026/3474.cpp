@@ -19,6 +19,7 @@ public:
             }
         }
     }
+    
     for (int i = 0; i < n; i++) {
         if (str1[i] == 'F') {
             bool matches = true;
